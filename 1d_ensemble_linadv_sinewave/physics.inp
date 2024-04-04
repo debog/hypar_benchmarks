@@ -1,0 +1,4 @@
+begin
+  advection     1.0
+  centered_flux yes
+end

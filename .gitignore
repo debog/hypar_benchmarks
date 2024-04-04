@@ -1,0 +1,11 @@
+conservation*.dat
+errors*.dat
+function_counts*.dat
+initial*.inp
+initial_par.inp.*
+exact*.inp
+topography.inp
+advection*.inp
+pde_rom_diff*.dat
+DMD
+out.*
