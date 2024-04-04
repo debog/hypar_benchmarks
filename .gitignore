@@ -4,8 +4,13 @@ function_counts*.dat
 initial*.inp
 initial_par.inp.*
 exact*.inp
-topography.inp
+topography*
 advection*.inp
 pde_rom_diff*.dat
 DMD
 out.*
+surface*.dat
+advection_field*
+efield*
+potential*
+iblank*
